@@ -3,7 +3,6 @@
 
 # Idris
 *.ibc
-*.idr
 
 # Build outputs
 TicTacToe
