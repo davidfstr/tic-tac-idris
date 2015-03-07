@@ -5,8 +5,8 @@ This is a tic-tac-toe game written in Idris.
 I wrote it as an exercise for learning basic functionality in Idris.
 
 This program does not make much use of language facilities unique to
-dependently-typed programming languages or Idris, such as proof terms.
-As such, this tic-tac-toe implementation should be translated quite
+dependently-typed programming languages or Idris such as proof terms.
+As such this tic-tac-toe implementation could be translated quite
 straightforwardly to another functional programming language such
 as Haskell.
 
